@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f73994cd38c18456982340593c2d079b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - logo: {fileID: 2800000, guid: 2aecdc626e3f345d0a8f6c3c6123399a, type: 3}
+  - tlObjectPrefab: {fileID: 7143242250582961174, guid: 45302d11976f545bf8c6c81f8e34ae75, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
